@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class testScript : MonoBehaviour {
+public class nolo : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        int yoloMongo;
+	
 	}
 	
 	// Update is called once per frame
